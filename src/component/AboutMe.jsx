@@ -43,7 +43,7 @@ function AboutMe() {
 
 
                 }}>
-                    <h1>Contacat Us</h1>
+                    <h1>Contact Us</h1>
                     <form
                         style={{
                             width: "300px",
